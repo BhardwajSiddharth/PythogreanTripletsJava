@@ -12,10 +12,10 @@ public class PythagoreanTriplets {
 	   c=sc.nextInt();
 	   if(a*a+b*b==c*c)
 	   {
-		   System.out.println("The numbers Entered are pythagorean triplets ...");
+		   System.out.println("Yes");
 	   }
 	   else {
-		   System.out.println("The numbers Entered are not pythagorean triplets ...");
+		   System.out.println("No");
 	   }
 	   
 	}
